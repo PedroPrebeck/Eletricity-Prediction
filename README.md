@@ -28,7 +28,7 @@ Para obter uma cópia local e executá-la, siga estas etapas.
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/PedroPrebeck/Previsao_Energia.git
+   git clone https://github.com/PedroPrebeck/Eletricity_Prediction.git
    ```
 2. Navegue até o diretório do projeto
    ```sh
@@ -67,7 +67,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 Pedro Prebeck - [@pedroprebeck](https://github.com/PedroPrebeck)
 
-Link do Projeto: [https://github.com/PedroPrebeck/Previsao_Energia](https://github.com/PedroPrebeck/Previsao_Energia)
+Link do Projeto: [https://github.com/PedroPrebeck/Eletricity_Prediction](https://github.com/PedroPrebeck/Eletricity_Prediction)
 
 ## Agradecimentos
 
