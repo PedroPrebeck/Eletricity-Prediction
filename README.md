@@ -28,7 +28,7 @@ Para obter uma cópia local e executá-la, siga estas etapas.
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/PedroPrebeck/Eletricity_Prediction.git
+   git clone https://github.com/PedroPrebeck/Eletricity-Prediction.git
    ```
 2. Navegue até o diretório do projeto
    ```sh
@@ -67,10 +67,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 Pedro Prebeck - [@pedroprebeck](https://github.com/PedroPrebeck)
 
-Link do Projeto: [https://github.com/PedroPrebeck/Eletricity_Prediction](https://github.com/PedroPrebeck/Eletricity_Prediction)
-
-## Agradecimentos
-
-- Ao PJM Interconnection por fornecer os dados do PJME.
-- Aos contribuidores de código aberto e à comunidade Python.
-- [Seu Nome de Perfil](https://github.com/PedroPrebeck) pela inspiração no formato do README.
+Link do Projeto: [github.com/PedroPrebeck/Eletricity-Prediction](https://github.com/PedroPrebeck/Eletricity-Prediction)
